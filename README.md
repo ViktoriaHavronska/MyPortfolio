@@ -10,9 +10,9 @@ The project demonstrates my skills in creating responsive and semantic web pages
 
 ## Project structure
 project/
-├── index.html
-├── css/style.css
-├── images/
+index.html
+css/style.css
+images/
 
 ## Functionality
 - Responsive design (Desktop / Tablet / Mobile)
