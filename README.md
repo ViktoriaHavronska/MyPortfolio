@@ -22,3 +22,9 @@ images/
 
 ## Goal
 Practice HTML and CSS and create your first portfolio for GitHub.
+
+## UI / UX Improvements
+- Scroll-based animations using pure CSS
+- Modern card design with hover overlays
+- Micro-interactions for buttons and links
+- Smooth transitions and keyframe animations
